@@ -1,0 +1,209 @@
+[
+  {
+    "id": "001",
+    "question_text": "From 0 to 100, what is the chance that the number of taxi runs in area 246 will be less than 18000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      246
+    ],
+    "answer": 75,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "002",
+    "question_text": "From 0 to 100, what is the chance that the number of taxi runs in area 246 will be more than 35000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      246
+    ],
+    "answer": 83,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "003",
+    "question_text": "From 0 to 100, what is the chance that the number of taxi runs in area 230 will be between 18000 and 35000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      230
+    ],
+    "answer": 33,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "004",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs less than 27000?",
+    "op": [
+      "164",
+      "170"
+    ],
+    "highlights": [
+      164,
+      170
+    ],
+    "answer": "164",
+    "distance": "Short",
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "005",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs less than 27000?",
+    "op": [
+      "249",
+      "237"
+    ],
+    "highlights": [
+      249,
+      237
+    ],
+    "answer": "249",
+    "distance": "Long",
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "006",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs more than 27000?",
+    "op": [
+      "141",
+      "107"
+    ],
+    "highlights": [
+      141,
+      107
+    ],
+    "answer": "141",
+    "distance": {},
+    "variance": "Low",
+    "size": {}
+  },
+  {
+    "id": "007",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs more than 27000?",
+    "op": [
+      "249",
+      "170"
+    ],
+    "highlights": [
+      249,
+      170
+    ],
+    "answer": "170",
+    "distance": {},
+    "variance": "High",
+    "size": {}
+  },
+  {
+    "id": "008",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs between 15000 and 36000?",
+    "op": [
+      "43",
+      "113"
+    ],
+    "highlights": [
+      43,
+      113
+    ],
+    "answer": "113",
+    "distance": {},
+    "variance": {},
+    "size": "Small"
+  },
+  {
+    "id": "009",
+    "question_text": "In which of the two areas is the likely of the number of taxi runs between 15000 and 36000?",
+    "op": [
+      "48",
+      "68"
+    ],
+    "highlights": [
+      48,
+      68
+    ],
+    "answer": "68",
+    "distance": {},
+    "variance": {},
+    "size": "Large"
+  },
+  {
+    "id": "010",
+    "question_text": "Enter the name (id) of the area most likely to have a taxi runs number greater than 34000?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "186",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "011",
+    "question_text": "Enter the name (id) of the area that is least likely to have a taxi runs number greater than 14000?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "224",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "012",
+    "question_text": "Estimate what is the average of taxi runs in area 107?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      107
+    ],
+    "answer": 25000,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "013",
+    "question_text": "For the number of taxi runs between 11000 and 36000 can you identify any area whose distribution is different from the neighbors? If yes, type the name (id) of the area below, if no type 'No'.",
+    "op": [
+      "Sim",
+      "Não"
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "186",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  }
+]

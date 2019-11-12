@@ -1,0 +1,209 @@
+[
+  {
+    "id": "001",
+    "question_text": "De 0 a 100, qual a chance de o número de táxis na área 246 ser menor que 18000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      246
+    ],
+    "answer": 75,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "002",
+    "question_text": "De 0 a 100, qual a chance de o número de táxis na área 246 ser superior a 35000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      246
+    ],
+    "answer": 83,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "003",
+    "question_text": "De 0 a 100, qual a chance de o número de táxis na área 230 estar entre 18000 e 35000?",
+    "op": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "highlights": [
+      230
+    ],
+    "answer": 33,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "004",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi ser menor que 27000?",
+    "op": [
+      "164",
+      "170"
+    ],
+    "highlights": [
+      164,
+      170
+    ],
+    "answer": "164",
+    "distance": "Short",
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "005",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi ser menor que 27000?",
+    "op": [
+      "249",
+      "237"
+    ],
+    "highlights": [
+      249,
+      237
+    ],
+    "answer": "249",
+    "distance": "Long",
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "006",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi ser maior que 27000?",
+    "op": [
+      "141",
+      "107"
+    ],
+    "highlights": [
+      141,
+      107
+    ],
+    "answer": "141",
+    "distance": {},
+    "variance": "Low",
+    "size": {}
+  },
+  {
+    "id": "007",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi ser maior que 27000?",
+    "op": [
+      "249",
+      "170"
+    ],
+    "highlights": [
+      249,
+      170
+    ],
+    "answer": "170",
+    "distance": {},
+    "variance": "High",
+    "size": {}
+  },
+  {
+    "id": "008",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi estar entre 15000 e 36000?",
+    "op": [
+      "43",
+      "113"
+    ],
+    "highlights": [
+      43,
+      113
+    ],
+    "answer": "113",
+    "distance": {},
+    "variance": {},
+    "size": "Small"
+  },
+  {
+    "id": "009",
+    "question_text": "Em qual das duas áreas é mais provável do número de corridas de táxi estar entre 15000 e 36000?",
+    "op": [
+      "48",
+      "68"
+    ],
+    "highlights": [
+      48,
+      68
+    ],
+    "answer": "68",
+    "distance": {},
+    "variance": {},
+    "size": "Large"
+  },
+  {
+    "id": "010",
+    "question_text": "Digite o nome (id) da área com maior probabilidade de ter um número de corrida de táxi maior que 34000?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "186",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "011",
+    "question_text": "Digite o nome (id) da área com menor probabilidade de ter um número de corrida de táxi maior que 14000?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "224",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "012",
+    "question_text": "Estime qual é o número médio de corridas de táxi na área 107?",
+    "op": [
+      ""
+    ],
+    "highlights": [
+      107
+    ],
+    "answer": 25000,
+    "distance": {},
+    "variance": {},
+    "size": {}
+  },
+  {
+    "id": "013",
+    "question_text": "Para o número de corridas de táxi entre 11000 e 36000, você pode identificar qualquer área cuja distribuição seja diferente das vizinhas? Se sim, digite o nome (id) da área, se não digite 'Não'.",
+    "op": [
+      "Sim",
+      "Não"
+    ],
+    "highlights": [
+      ""
+    ],
+    "answer": "186",
+    "distance": {},
+    "variance": {},
+    "size": {}
+  }
+]
